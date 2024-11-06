@@ -45,18 +45,22 @@ Home Page:
 Dashboard:
 ![image](https://github.com/user-attachments/assets/4fac86ca-5973-4c1c-868d-021e57a00ca2)
 
-![image](https://github.com/user-attachments/assets/ed3a3bea-48f6-4e6b-a813-7593a38186af)
 
-Analysis:
-![image](https://github.com/user-attachments/assets/f666b0ed-368c-4298-b03c-a4173ea9a680)
-
-![image](https://github.com/user-attachments/assets/02011cd0-19a5-4d32-8a67-fe015a3570d1)
 
 Compare:
-![image](https://github.com/user-attachments/assets/2b3199d7-ff08-41bb-9d03-6742c07cbc95)
+![image](https://github.com/user-attachments/assets/d892ca5e-a3d8-4b8b-8f4b-ed41ee848e48)
+
+![image](https://github.com/user-attachments/assets/ed3a3bea-48f6-4e6b-a813-7593a38186af)
+![image](https://github.com/user-attachments/assets/f666b0ed-368c-4298-b03c-a4173ea9a680)
+
+
+
+Analysis:
+![image](https://github.com/user-attachments/assets/4f95e094-7dcd-4150-a170-5e25e04bacf3)
+
 
 Prediction:
-![image](https://github.com/user-attachments/assets/346cffaa-aa03-4bc6-a5b5-094a0373906a)
+![image](https://github.com/user-attachments/assets/2b3199d7-ff08-41bb-9d03-6742c07cbc95)
 
 Watchlist:
-
+![image](https://github.com/user-attachments/assets/346cffaa-aa03-4bc6-a5b5-094a0373906a)
