@@ -40,14 +40,14 @@ Windows 7, Linux mint 16, Mac OS X Yosemite or later
 ## Screenshots
 
 Home Page: 
-![image](https://github.com/user-attachments/assets/c8e9629d-1a3c-4f84-97fd-a5e8b36a72f1)
+![image](https://github.com/user-attachments/assets/9b4caac4-5be7-4e99-ad99-8b2aaab4984e)
 
 Dashboard:
 ![image](https://github.com/user-attachments/assets/ed3a3bea-48f6-4e6b-a813-7593a38186af)
 
 Analysis:
 ![image](https://github.com/user-attachments/assets/f666b0ed-368c-4298-b03c-a4173ea9a680)
-![image](https://github.com/user-attachments/assets/9b4caac4-5be7-4e99-ad99-8b2aaab4984e)
+
 ![image](https://github.com/user-attachments/assets/02011cd0-19a5-4d32-8a67-fe015a3570d1)
 
 Compare:
