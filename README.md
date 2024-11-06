@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# CryptoVisor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites) 
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Introduction
 
-### `npm start`
+CryptoVisor is a comprehensive web application that provides users with real-time predictions, analytics, and insights into the cryptocurrency market. Leveraging advanced machine learning algorithms and live market data, the platform empowers users to make informed investment decisions by forecasting cryptocurrency price movements. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Bitcoin Prediction**:  Provides real-time and short-term predictions for Bitcoin prices based on historical data and machine learning models. Users can view detailed forecasts, trends, and confidence intervals, helping them make informed trading decisions.
 
-### `npm test`
+- **Watchlist**: Allows users to create a personalized watchlist to track their favorite cryptocurrencies. The watchlist provides quick access to the latest prices, trends, and prediction updates, so users can monitor selected coins more efficiently.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Compare**: Enables side-by-side comparisons of different cryptocurrencies, allowing users to view metrics like price history, volatility, trading volume, and predicted trends. This feature helps users assess relative performance and correlation between various assets.
 
-### `npm run build`
+- **Dashboard**: A comprehensive, customizable dashboard that aggregates key information in one place. Users can view recent predictions, total volume, market capital, and news, creating a streamlined experience for tracking the cryptocurrency market.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Analysis**: Provides detailed insights into individual cryptocurrencies, with charts and analytics covering historical performance, volatility, market sentiment, and prediction accuracy. Advanced users can dive into data-driven reports to understand factors influencing price changes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Cryptocurrency Conversion**: Integrated conversion tool for users to calculate exchange rates between various cryptocurrencies and fiat currencies. Real-time exchange rates are used to provide accurate conversion values, supporting efficient decision-making across currencies.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+Hardware: 
+Intel core i3 4600 or Ryzen 3 1200 or later 
+4GB RAM 
+Stable internet connection 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Software: 
+Windows 7, Linux mint 16, Mac OS X Yosemite or later 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
