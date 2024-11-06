@@ -43,6 +43,8 @@ Home Page:
 ![image](https://github.com/user-attachments/assets/9b4caac4-5be7-4e99-ad99-8b2aaab4984e)
 
 Dashboard:
+![image](https://github.com/user-attachments/assets/4fac86ca-5973-4c1c-868d-021e57a00ca2)
+
 ![image](https://github.com/user-attachments/assets/ed3a3bea-48f6-4e6b-a813-7593a38186af)
 
 Analysis:
