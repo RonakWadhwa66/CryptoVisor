@@ -59,5 +59,4 @@ Prediction:
 ![image](https://github.com/user-attachments/assets/346cffaa-aa03-4bc6-a5b5-094a0373906a)
 
 Watchlist:
-![Uploading image.png…]()
 
